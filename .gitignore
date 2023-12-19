@@ -1,0 +1,14 @@
+# template
+.vs/
+
+#users file
+*.suo
+*.user
+*.nuget.*
+
+#builds
+
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+
